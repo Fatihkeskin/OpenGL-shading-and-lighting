@@ -5,4 +5,4 @@ Luckily OpenGL lightning model is easy to implement. For this
 project, i created a scene consists of 625 boxes on a flat
 plane. With the help of FPS Camera you can spectate
 
-![alt text]()
+![alt text](https://github.com/Fatihkeskin/OpenGL-shading-and-lighting/blob/master/Screenshot_3.png)
